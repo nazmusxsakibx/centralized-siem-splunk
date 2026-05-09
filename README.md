@@ -37,14 +37,10 @@ Kali Linux (Forwarder)          TCP :9997          Windows Host (Indexer)
 
 ## Stack
 
-`Splunk Enterprise 9.x` · `Splunk Universal Forwarder` · `SPL` · `PowerShell` · `Bash`
+`Splunk Enterprise x.x` · `Splunk Universal Forwarder` · `SPL` · `PowerShell` · `Bash`
 
 ---
 
 ## Documentation
 
 Full step-by-step implementation guide is included in [`docs/`](docs/) — covering installation, configuration, dashboard creation, and verification steps.
-
-## Author
-
-**Your Name** · [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
